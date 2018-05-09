@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 	"github.com/gruntwork-io/terratest/modules/logger"
-	"golang.org/x/net/context"
+	"context"
 )
 
 type Either struct {
